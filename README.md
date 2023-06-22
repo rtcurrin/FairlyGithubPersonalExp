@@ -1,2 +1,2 @@
 # FairlyGithubPersonalExp
-Fairly, a talent acquisition platform, facilitates quick and effective hiring of quality and diverse talent. As an MVP, code snippets in this repository demonstrate my expertise in SQL, C#/.NET, and React for developing newsletter subscription and work history features.
+Fairly is a talent acquisition platform that enables teams to efficiently discover and recruit high-quality and diverse talent. As an MVP, Fairly's proprietary code restricts me from sharing complete code samples, but I can provide snippets showcasing my expertise. Within this repository, you will find SQL, C#/.NET, and React code snippets demonstrating my contributions to the development of the newsletter subscription and work history features.
